@@ -19,7 +19,7 @@
 							
 	
 					
-							<p>Untuk melihat menu silahkan klik tombol <i class="lnr lnr-menu"></i></p><br>
+							<p>Untuk melihat menu silahkan klik  <i class="lnr lnr-menu"></i></p><br>
 							
 							
 						<iframe src="https://app.powerbi.com/view?r=eyJrIjoiYzljZmZjYjUtMmI4Zi00NmQzLWEzNjAtZmEzM2JjN2FmYjUxIiwidCI6ImUyMjAwNGJkLWFjYmItNDJlMS05YmQ4LWExMTUzZDcwNDdlMCIsImMiOjEwfQ%3D%3D&pageName=ReportSection" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:700px;width:100%;border:none;overflow:hidden;"></iframe>
